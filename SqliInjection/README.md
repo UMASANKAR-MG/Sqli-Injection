@@ -34,7 +34,7 @@
           pip install SqliIjnectionl
         ```
    - Run bellow command to check
-     - `SqliIjnection -h`
+     - `SqliInjection -h`
 
 
 ## Usages 
@@ -42,19 +42,19 @@
    
    - To Check Single URL
      - ```bash
-          SqliIjnectionl -u http://example.com 
+          SqliInjection -u http://example.com 
         ```
    - To Check List of URL 
       - ```bash
-          SqliIjnection -l urls.txt 
+          SqliInjection -l urls.txt 
         ```
    - Save output into TXT file
       - ```bash
-          SqliIjnection -l urls.txt -o out.txt
+          SqliInjection -l urls.txt -o out.txt
         ```
    - Want to Learn about [`SQL Injection`](https://medium.com/purplebox/sql-injection-da949c39dbe6)? Then Type Below command
       - ```bash
-          SqliIjnection -b
+          SqliInjection -b
         ```
      
 <p align="center">
@@ -100,11 +100,11 @@ Usage: SqliIjnection [options]
 
 | Argument | Type     | Description                | Examples |
 | :-------- | :------- | :------------------------- | :------------------------- |
-| `-u` | `--url` | URL to scan | Sqli-Ijnection -u https://target.com |
-| `-l` | `--input` | filename Read input from txt  | SqliIjnection -i target.txt | 
-| `-o` | `--output` | filename Write output in txt file | SqliIjnection -i target.txt -o output.txt |
-| `-b` | `--blog` | To Read about sql injection Bug | SqliIjnection -b |
-| `-h` | `--help` | Help Menu | SqliIjnection -h |
+| `-u` | `--url` | URL to scan | SqliInjection -u https://target.com |
+| `-l` | `--input` | filename Read input from txt  | SqliInjection -i target.txt | 
+| `-o` | `--output` | filename Write output in txt file | SqliInjection -i target.txt -o output.txt |
+| `-b` | `--blog` | To Read about sql injection Bug | SqliInjection -b |
+| `-h` | `--help` | Help Menu | SqliInjection -h |
 
 
 

@@ -68,9 +68,7 @@
 
 ## Working PoC Video
 
-[![local](file:///C:/Users/mguma/Videos/sql.mp4)]
-
-
+https://github.com/user-attachments/assets/66ddc94f-c642-4d1c-b53a-6bde043e9160
 
 
 ## Help menu

@@ -62,7 +62,7 @@
   
 </p>
 <p align="center">
-<b>This tool is created for security bug identification and assistance; Cappricio Securities is not liable for any illegal use. 
+<b>This tool is created for security bug identification and assistance; Is not liable for any illegal use. 
   Use responsibly within legal and ethical boundaries. 🔐🛡️</b></p>
 
 

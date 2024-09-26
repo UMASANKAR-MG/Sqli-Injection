@@ -31,7 +31,7 @@
 
    - Install via pip
      - ```bash
-          pip install SqliIjnectionl
+          pip install SqliInjectionl
         ```
    - Run bellow command to check
      - `SqliInjection -h`
